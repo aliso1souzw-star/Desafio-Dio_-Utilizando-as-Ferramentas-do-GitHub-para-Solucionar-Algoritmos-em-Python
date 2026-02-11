@@ -4,5 +4,5 @@
 
 ## Sobre o desafio 📄
 
-<p> Neste desafio vamos criar linhas de codigos em python e resolver problemas com o Github Copilot </p>
+<p> Neste desafio, vamos criar linhas de código em Python e resolver problemas com a ajuda do GitHub Copilot. </p>
 
