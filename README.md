@@ -1,6 +1,6 @@
 <h2 align="center">Desafio-Dio</h2><br>
 
-<p align="center"><img src="https://endomarketing.tv/wp-content/uploads/2017/04/endomarketing-progic-desafios-da-comunicacao-interna-712x350.gif"></p>
+<p align="center"><img src="https://endomarketing.tv/wp-content/uploads/2017/04/endomarketing-progic-desafios-da-comunicacao-interna-712x350.gif"></p><br>
 
 ## Sobre o desafio 📄
 
