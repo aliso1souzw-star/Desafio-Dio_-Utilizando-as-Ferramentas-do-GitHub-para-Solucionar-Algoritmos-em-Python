@@ -3,5 +3,5 @@
 texto = input("Digite uma string: ")
 numero = int(input("Digite um numero inteiro: "))
 
-texto_repetido = texto * numero
-print("A string repetida é: "  + texto_repetido)
+texto_repetido = " ".join([texto] * numero)
+print("A string repetida é: " + texto_repetido)
